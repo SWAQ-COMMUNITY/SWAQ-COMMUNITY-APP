@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SWAQ</string>
+
+
+    <string name="FACEBOOK_APP_ID">303711873744017</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">ff591a0954d60e56335f0addc18d8645</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SWAQ Dev Community</string>
+    <string name="nav_header_subtitle">dev.community@swaq.info</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+
+</resources>
